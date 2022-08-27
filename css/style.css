@@ -41,6 +41,7 @@ hr {
   background-color: #DFF6FF;
   position: relative;
   padding-top: 100px;
+  background-size: 100% auto;
 }
 
 .middle-portion {
