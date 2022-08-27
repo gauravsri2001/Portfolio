@@ -42,6 +42,11 @@ hr {
   position: relative;
   padding-top: 100px;
 }
+@media screen and (min-width: 20px){
+  top-portion{
+    background-color: #DFF6FF;
+  }
+}
 
 .middle-portion {
   width: 50%;
