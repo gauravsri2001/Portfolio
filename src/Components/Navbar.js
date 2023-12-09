@@ -43,6 +43,12 @@ const Navbar = () => {
 
                     <li>
                         <div className='block py-2 pl-3 pr-4 rounded md:p-0 hover:text-orange-600 text-violet-700'>
+                            Services
+                        </div>
+                    </li>
+
+                    <li>
+                        <div className='block py-2 pl-3 pr-4 rounded md:p-0 hover:text-orange-600 text-violet-700'>
                             Project
                         </div>
                     </li>
