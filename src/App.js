@@ -3,6 +3,7 @@ import './App.css';
 import About from './Components/About';
 import Main from './Components/Main';
 import Navbar from './Components/Navbar';
+import OverView from './Components/OverView';
 
 function App() {
   return (
@@ -24,6 +25,10 @@ function App() {
 
         </div>
 
+      </div>
+
+      <div className='flex flex-col relative bg-white'>
+        <OverView />
       </div>
 
     </div>
