@@ -72,9 +72,9 @@ const technologies = [
 
 const projects = [
     {
-        name: "FlexiGuide - a fitness app",
+        name: "FlexiGuide",
         description: 
-            "Created an interactive fitness application allowing users to explore diverse workout categories and access over 1000+ exercises with practical examples. Integrated YouTube for relevant exercise videos, enhancing user experience and engagement. Leveraged ReactJS, Material UI, and Rapid APIs to build the application.",
+            "Interactive fitness application allowing users to explore diverse workout categories and access over 1000+ exercises with practical examples.",
         tags: [
             {
                 name: "ReactJS",
@@ -96,7 +96,7 @@ const projects = [
 
     {
         name: "E-commerce Insights: Cell Phone Brand Trend",
-        description: "Utilized Tableau to create impactful visualizations, interactive dashboards, and engaging Tableau stories. Analyzed a large dataset with 700+ columns to reveal valuable insights into customer sentiment, ratings, and preferences. Facilitated informed decision-making and recommended actionable strategies based on the analysis. Presented the findings through compelling data visualizations and interactive dashboards. Leveraged Tableau, MySQL & Bootstrap to build the application.",
+        description: "Utilized Tableau to analyze a vast dataset, revealing customer preferences for cellphone brands in e-commerce. Guided strategic decisions with actionable insights.",
         tags:[
             {
                 name: "Tableau",
@@ -118,7 +118,7 @@ const projects = [
 
     {
         name: "Travel_Buddy - a travel advisor app",
-        description: "Created and deployed a Travel Companion App, combining Google Maps API, geolocation, and Rapid APIs for real-time data on nearby restaurants, hotels, and attractions. Implemented a robust search feature to find places of interest, including restaurants, hotels, and attractions. Utilized data filtering techniques to provide users with personalized recommendations and options. Created a user-friendly and intuitive interface for seamless navigation and exploration. Leveraged ReactJS, Material UI, and Rapid APIs to build the application.",
+        description: "Created and deployed a Travel Companion App, combining Google Maps API, geolocation, and Rapid APIs for real-time data on nearby restaurants, hotels, and attractions.",
         tags:[
             {
                 name: "Tableau",
