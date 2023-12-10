@@ -1,7 +1,7 @@
 
 import './App.css';
 import About from './Components/About';
-import Contact from './Components/Contact';
+//import Contact from './Components/Contact';
 import Footer from './Components/Footer';
 import Main from './Components/Main';
 import Navbar from './Components/Navbar';
@@ -33,7 +33,7 @@ function App() {
       <div className='flex flex-col relative bg-white'>
         <OverView />
         <Projects />
-        <Contact />
+        {/* <Contact /> */}
         <Footer />
       </div>
 

@@ -12,7 +12,7 @@ const Styles = {
         "sm:text-[18px] text-violet-600 text-[14px] uppercase tracking-wider",
 
         sectionText:
-        "mt-4 pl-8 text-orange-500 text-[17px] leading-[30px] max-w-3xl",
+        "mt-4 pl-8 text-orange-500 text-[19px] leading-[30px] max-w-3xl",
     
 
 };

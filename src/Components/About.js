@@ -10,12 +10,13 @@ const About = () => {
     <div className='flex flex-wrap justify-center items-center mt-10 p-10' id='Home'>
         <div className='flex-1 py-4'>
             <span className={Styles.heroHeadText}>
-                Hi, I'm <br /><span className='text-orange-600'> Gaurav Srivastava
+                Hello, I'm <br /><span className='text-orange-600'> Gaurav Srivastava
                 </span>
                 <br />
 
                 <span className={Styles.heroSubText}>
-                    I am a Front-End Developer & Data Analysis Enthusiast
+                    I am a Front-End Developer &
+                    <br /> Data Analysis Enthusiast
                 </span>
 
             </span>

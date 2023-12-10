@@ -5,7 +5,7 @@ import { BiPhone } from 'react-icons/bi';
 const Footer = () => {
   return (
     <div>
-        <div className='w-[screen] p-5 items-center justify-center bg-black  flex flex-row'>
+        <div className='w-[screen] p-5 items-center justify-center bg-black  flex flex-row' id='Contact'>
 
             <div className=' flex flex-row p-2 mr-2 flex-wrap justify-around'>
                 <a href='www.linkedin.com/in/gaurav-srivastava2001' target='blank' className='text-lg flex flex-row text-violet-300'>
