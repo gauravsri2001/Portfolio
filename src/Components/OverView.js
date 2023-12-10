@@ -15,7 +15,7 @@ const OverView = () => {
             <hr className='w-[35]'></hr>
 
             <div className= {Styles.sectionText}>
-            Hello! I'm Gaurav Srivastava, a 22-year-old Software Developer enthusiast. Currently pursuing a B.Tech degree in Computer Science at VIT Bhopal, I'm eager to step into the world of software development.
+            Hello! I'm Gaurav Srivastava, a 22-year-old Software Developer enthusiast from Uttar Pradesh, India. Currently pursuing a B.Tech degree in Computer Science at VIT Bhopal, I'm eager to step into the world of software development.
             Proficient in Java, React.js, and MySQL, I love turning ideas into functional solutions. When not coding, I enjoy cricket and volleyball for a balanced lifestyle.
             Excited about exploring opportunities in software development, I'm ready to contribute, learn, and make a meaningful impact. Let's work together and bring ideas to Life!
             </div>
