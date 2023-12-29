@@ -14,6 +14,7 @@ import wireshark from "../assets/wireshark.png";
 import project1 from "../assets/project1.png";
 import project2 from "../assets/project2.jpeg";
 import project3 from "../assets/project3.jpeg";
+import project4 from "../assets/project4.png";
 
 const services = [
     {
@@ -113,28 +114,52 @@ const projects = [
         ],
         image: project2,
         source_code_link: "https://github.com/gauravsri2001/E-commerce-Insights-Cell-Phone-Brand-Trends",
+        source_deploy_link: "https://e-commerce-insights-cell-phone-brand-trends.vercel.app/", 
         
     },
 
+    // {
+    //     name: "Travel_Buddy - a travel advisor app",
+    //     description: "Created and deployed a Travel Companion App, combining Google Maps API, geolocation, and Rapid APIs for real-time data on nearby restaurants, hotels, and attractions.",
+    //     tags:[
+    //         {
+    //             name: "React.Js",
+    //             color: "green-text=gradient",
+    //         },
+    //         {
+    //             name: "Material UI",
+    //             color: "blue-text-gradient",
+    //         },
+    //         {
+    //             name: "Rapid API",
+    //             color: "pink-text-gradient",
+    //         },
+    //     ],
+    //     image: project3,
+    //     source_code_link: "https://github.com/gauravsri2001/Travel_Buddy",
+    // },
+
     {
-        name: "Travel_Buddy - a travel advisor app",
-        description: "Created and deployed a Travel Companion App, combining Google Maps API, geolocation, and Rapid APIs for real-time data on nearby restaurants, hotels, and attractions.",
+        name: "JobCrate",
+        description: "Created a user-friendly and intuitive job board website, functioning as a comprehensive job search engine.",
         tags:[
             {
-                name: "Tableau",
+                name: "React.Js",
                 color: "green-text=gradient",
             },
             {
-                name: "MySQL",
+                name: "Tailwind CSS",
                 color: "blue-text-gradient",
             },
             {
-                name: "Bootstrap",
+                name: "Firebase",
                 color: "pink-text-gradient",
             },
         ],
-        image: project3,
-        source_code_link: "https://github.com/gauravsri2001/Travel_Buddy",
+        image: project4,
+        source_code_link: "https://github.com/gauravsri2001/JobCrate",
+        source_deploy_link: "https://job-crate.vercel.app/", 
+        
     },
 ];
 export {services, technologies, projects};
